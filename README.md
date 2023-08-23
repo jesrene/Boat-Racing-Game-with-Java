@@ -1,8 +1,9 @@
 # Boat-Racing-Game
-This is a two players game. At the beginning of the game, each player will be allocated with a boat. During the game, the players take turn to throw the dice to decide how many steps should the boat move forward. The river can be visualized as a 100-columns track, which is filled with random number of traps(#) and currents (c).
+The game involves two players and starts with each player receiving a boat. Throughout the game, the players alternate turns to roll a dice, determining the number of steps their boat advances. The game's playing area resembles a track with 100 columns, representing the river. This river track contains varying quantities of traps(#) and currents (c).
+
+In the file TopScore.txt, the scores are organized in ascending order, and corresponding player names are positioned above their respective scores. The scores correspond to the number of turns each player takes to complete the game.
 
 
-The scores in TopScore.txt are arranged in ascending order and the names of each player are displayed on top of their scores. Player’s scores are the same as the turns they each take to finish the game. 
 
 
 
